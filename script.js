@@ -1,11 +1,11 @@
 function nextPage() {
-    window.location.href = "message.php";
+    window.location.href = "message.html";
 }
 
 function next() {
-    window.location.href = "next.php";
+    window.location.href = "next.html";
 }
 
 function last() {
-    window.location.href = "last.php";
+    window.location.href = "last.html";
 }
